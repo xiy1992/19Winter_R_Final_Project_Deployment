@@ -1,0 +1,26 @@
+---
+title: "Welcome to 19Winter_R_Final_Project_Deployment"
+description: |
+  Welcome to our new blog, 19Winter_R_Final_Project_Deployment. We hope you enjoy 
+  reading what we have to say!
+author:
+  - name: Xi Yang
+    url: https://example.com/norajones
+    affiliation: University of Oregon
+    affiliation_url: https://uoregon.edu
+date: 03-20-2019
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Radix at:
+# https://rstudio.github.io/radix/blog.html
+
+```
+
+
+

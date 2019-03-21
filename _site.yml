@@ -1,0 +1,12 @@
+name: "19Winter_R_Final_Project_Deployment"
+title: "19Winter_R_Final_Project_Deployment"
+description: |
+  19Winter_R_Final_Project_Deployment
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: radix::radix_article
